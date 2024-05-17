@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1715218809 source:d:\friday\product\main.cpp
+	"game.h"
+
+1715891792 d:\friday\product\graphics.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	"defs.h"
+
+1715891780 d:\friday\product\defs.h
+
+1714732831 d:\friday\product\logic.h
+
+1715218809 d:\friday\product\game.h
+	<iostream>
+	<SDL.h>
+	"bang.h"
+
+1715917776 source:d:\friday\product\game.cpp
+	"game.h"
+	"graphics.h"
+	<SDL_image.h>
+
+1715258430 d:\friday\product\tile.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1715926434 d:\friday\product\bang.h
+	"Tile.h"
+	"graphics.h"
+	<ctime>
+	<string>
+
